@@ -1,3 +1,5 @@
 *.gz
 .DS_Store
 *.zip
+Dockerfile
+*.jar
